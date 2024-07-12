@@ -11,5 +11,5 @@ TommyMart/TommyMart is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![TommyMart's GitHub | Stats](https://stats.quira.sh/TommyMart/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=TommyMart)
+
 
