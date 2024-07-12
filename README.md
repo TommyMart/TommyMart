@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tom Martin
+# 👋 Hi, I’m Tom Martin
 - 👀 I’m interested in solving problems and creativity. 
 - 🌱 I’m currently studying full stack software development and design.
 - 💞️ I’m looking to collaborate on software that helps society and/or the environment in some way.
