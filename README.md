@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tom Martin
 - 👀 Interested in solving problems with logical creativity. 
-- 🌱 Currently studying full stack software development and visual design/communication.
+- 🌱 Currently studying full stack software development.
 - 💞️ Looking to collaborate on software projects that positively impact society and/or the environment.
 - 📫 Reach me -> thomas.h.martin89@gmail.com
 - 😄 Pronouns: He/Him
