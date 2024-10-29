@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tom Martin
 - 👀 Interested in sustainable innovation and crafting impactful solutions. 
-- 🌱 Currently in my final semester studying full stack software development.
-- 💞️ Looking to collaborate on software projects that positively impact society and/or the environment.
+- 🌱 Currently in my final semester studying full stack development.
+- 💞️ Looking to contribute to projects that positively impact society and/or the environment.
 - 📫 Reach me -> thomas.h.martin89@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music producer 
