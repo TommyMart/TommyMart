@@ -22,7 +22,7 @@ SurveyBuddy is an intuitive platform designed to streamline survey creation, sha
 ## Let’s Connect!  
 
 Feel free to explore my work and reach out:  
-- 🔗 [GitHub Profile](https://main--tommartin-portfolio.netlify.app/)
+- 🔗 [Portfolio Website](https://main--tommartin-portfolio.netlify.app/)
 - 🌐 [SurveyBuddy Organization](https://github.com/Survey-Buddy) 
 
 I’m always open to collaborating on exciting projects or discussing innovative ideas. Let’s build something together! 
