@@ -9,7 +9,7 @@
 
 ## What I'm Working On  
 
-🎯 I’m currently working on my final project, **[SurveyBuddy](https://github.com/Survey-Buddy)**.  
+🎯 I’m currently working on my final solo project for Coder Academy, **[SurveyBuddy](https://github.com/Survey-Buddy)**.  
 SurveyBuddy is an intuitive platform designed to streamline survey creation, sharing, and analytics. Its mission is to simplify the feedback collection process for individuals, teams, and businesses, empowering them to make informed decisions based on clear, actionable insights.  
 
 ## Technologies I Love  
