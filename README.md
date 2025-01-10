@@ -15,9 +15,9 @@ SurveyBuddy is an intuitive platform designed to streamline survey creation, sha
 ## Technologies 
 
 - **Frontend**: React, TypeScript  
-- **Backend**: Node.js, Express, Python  
-- **Databases**: MongoDB, SQL  
-- **Tools & Platforms**: AWS, GitHub, Figma  
+- **Backend**: Node.js, Express, Flask 
+- **Databases**: MongoDB, PostgreSQL  
+- **Tools & Platforms**: Figma, AWS, GitHub
 
 ## Let’s Connect!  
 
